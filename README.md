@@ -4,7 +4,7 @@ Experiments - esp32server
 * 01a: Prise de photos et manips de fichiers.
 * 01b: lists all, recursively. Longue page si plein de fichiers ( Topkhung ).
 * 01c: bugged, loads, sees images, but won't list files 
-
+* 01d: adding capture of image, control of LED, read/write of IOs. 
 
 
 Playing with ESP32 ideas
