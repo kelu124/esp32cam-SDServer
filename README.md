@@ -19,3 +19,11 @@ Playing with ESP32 ideas
   * https://github.com/Ponkabonk/ESP32-CAM-Demo
   * https://github.com/topkhung/ESP32_Web_ClickToDownload_File_SD_Card/blob/master/ESP32_Web_file_Download.ino
 
+
+https://github.com/G6EJD/ESP32-8266-File-Upload/blob/master/ESP_File_Download_Upload.ino
+
+
+
+DateTime : 
+* https://stackoverflow.com/questions/39182400/current-date-and-current-time-in-hidden-fields
+* https://stackoverflow.com/questions/15103890/submit-todays-date-as-a-hidden-form-input-value
