@@ -1,11 +1,29 @@
-# esp32cam-SDServer
+# esp32cam-partageoir
 
-Experiments - esp32server
-* 01a: Prise de photos et manips de fichiers.
-* 01b: lists all, recursively. Longue page si plein de fichiers ( Topkhung ).
-* 01c: bugged, loads, sees images, but won't list files 
-* 01d: adding capture of image, control of LED, read/write of IOs. 
+## Main idea
 
+* Have an ESP32cam act as a partegeoir / sharing platforms.
+
+
+## Changelog
+
+* Main / Nov02c: basic AP creation, file management.
+  * need to toggle admin rights to delete files
+  * Datetime provided by browser
+  * takes pictures
+  * enables a dead-drop chat in ./log.txt
+
+## Experiments 
+
+* Experiments - esp32server
+  * Nov01a: Prise de photos et manips de fichiers.
+  * Nov01b: lists all, recursively. Longue page si plein de fichiers ( Topkhung ).
+  * Nov01c: bugged, loads, sees images, but won't list files 
+  * Nov01d: adding capture of image, control of LED, read/write of IOs. 
+  * Nov02c: First workable version
+  * Nov02c: Hall sensor test
+
+## Ideas
 
 Playing with ESP32 ideas
 * Listing files?

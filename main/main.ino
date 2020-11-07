@@ -1,4 +1,5 @@
 /******************************************************************
+  Fork of :
   L'ESP32-CAM présente une page web qui permet de prendre des photos
   et de les enregistrer sur une carte SD, de visionner les photos
   déjà présentes sur la carte, et de supprimer les photos non-désirées.
@@ -13,7 +14,7 @@
 #include "SD_MMC.h"   // carte SD
 #include "esp_camera.h" // caméra!
 
-// écrivez le nom et le mot de passe de votre réseau WIFI
+// WIFI SSID
 const char* ssid = "partageoir";
 
 WebServer server(80);
